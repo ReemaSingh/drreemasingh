@@ -1,5 +1,5 @@
 
-### Support or Contact
+### Support or Contact [[Back](../index.md)]
 
 Dr Reema Singh <br/>
 Bioinformatician and Data Manager/Staff Scientist <br/>
@@ -10,7 +10,6 @@ Website: https://reemasingh.github.io/drreemasingh/ <br/>
 
 
 
-twitter: username: reemasingh28
+[Twitter](https://twitter.com/reemasingh28)<br/>
+[Github](https://reemasingh.github.io/)<br/>
 
-twitter_username: reemasingh28
-github_username: ReemaSingh
