@@ -9,5 +9,6 @@ title: Dr. Reema Singh
 theme: minima
 
 include:
+ - .htaccess
  - _pages
  
