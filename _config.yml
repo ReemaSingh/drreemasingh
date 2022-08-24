@@ -5,24 +5,6 @@ logo: /assets/img/RS.PNG
 title: Dr. Reema Singh
 email: res498@usask.ca
 #description: Bioinformatician and Data Manager/Staff Scientist, Vaccine and Infectious Disease Organization(VIDO),University of Saskatchewan, CANADA.
-phone: 306-966-2551 
-e-mail: res498@usask.ca
-
-twitter:
-  username: reemasingh28
-
-#twitter_username: reemasingh28
-github_username: ReemaSingh
-
-
-nav_pages:
-  - name: Experience
-  - name: Publications
-  - name: Softwares
-  - name: Talks
-  - name: Posters 
-  - name: Teaching
-  - name: Awards
 
 include:
  - .htaccess
