@@ -1,12 +1,12 @@
-#theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 
-#logo: /assets/img/RS.PNG
+logo: /assets/img/RS.PNG
 
 # Site settings
 title: Dr. Reema Singh
 #email: res498@usask.ca
 #description: Bioinformatician and Data Manager/Staff Scientist at VIDO
-theme: minima
+#theme: minima
 
 include:
  - _pages
