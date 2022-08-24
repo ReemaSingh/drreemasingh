@@ -7,5 +7,5 @@ email: res498@usask.ca
 description: Bioinformatician and Data Manager/Staff Scientist at VIDO
 
 include:
- - .htaccess
+# - .htaccess
  - _pages
