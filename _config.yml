@@ -7,7 +7,7 @@ title: Dr. Reema Singh
 email: res498@usask.ca
 description: Bioinformatician and Data Manager/Staff Scientist at VIDO
 theme: minima
+
 include:
-# - .htaccess
  - _pages
  
