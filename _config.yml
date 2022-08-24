@@ -8,6 +8,6 @@ title: Dr. Reema Singh
 #description: Bioinformatician and Data Manager/Staff Scientist at VIDO
 theme: minima
 
-#include:
-# - _pages
+include:
+ - _pages
  
