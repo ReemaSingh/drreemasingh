@@ -1,5 +1,5 @@
-theme: jekyll-theme-minimal
-
+#theme: jekyll-theme-minimal
+theme: jekyll-theme-dinky
 logo: /assets/img/RS.PNG
 
 # Site settings
