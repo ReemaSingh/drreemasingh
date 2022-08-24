@@ -9,3 +9,4 @@ description: Bioinformatician and Data Manager/Staff Scientist at VIDO
 include:
 # - .htaccess
  - _pages
+ -_layouts
