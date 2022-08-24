@@ -1,6 +1,6 @@
 # Welcome to Academic webpage of Dr. Reema Singh 
 
-**[Work Experience](_pages/Experience.md)**&emsp;**[Publications](_pages/Publications.md)**&emsp;**[Softwares](_pages/software.md)**&emsp;**[Talks](_pages/Talks.md)**&emsp;**[Posters](_pages/Posters.md)**&emsp;**[Teaching](_pages/Teaching.md)**&emsp;**[Awards](_pages/Awards.md)**
+**[Work Experience](_pages/Experience.md)**&emsp;**[Publications](_pages/Publications.md)**&emsp;**[Softwares](_pages/software.md)**&emsp;**[Talks](_pages/Talks.md)**&emsp;**[Posters](_pages/Posters.md)**&emsp;**[Teaching](_pages/Teaching.md)**&emsp;**[Awards](_pages/Awards.md)**&emsp;**[Contact](_pages/contact.md)**
 
 ### About Me
 I am a computational Biologist/Bioinformatician with more than 14 years of research experience. 
@@ -16,13 +16,6 @@ I am a computational Biologist/Bioinformatician with more than 14 years of resea
 
 **PhD thesis [2009-2013]:** My work focused specifically on developing and deploying clustering and machine learning methods for high- throughput data analysis i.e. development of 1) an integrated gene-expression analysis (meta-analysis) protocol to identify process and pathways associated with *Mycobacterium tuberculosis* infection, and 2) an integrated generic R package, named HTDA (https://r-forge.r-project.org/projects/htda/), for the analysis of high-throughput (transcriptomics, proteomics, and metabolomics) data. The integrated high-throughput data analysis is a challenging problem for two reasons. First, finding a common identifier to integrate data from different studies is intrinsically complicated. Second, data heterogeneity and different analytic assumptions could lead to inaccurate results. My PhD thesis provides an improved gene-expression meta-analysis protocol (at the level of annotation, data processing, and functional analysis) for data integration while preserving the accuracy of the original datasets.
 
-### Support or Contact
 
-Dr Reema Singh <br/>
-Bioinformatician and Data Manager/Staff Scientist <br/>
-Vaccine and Infectious Disease Organization (VIDO)<br/>
-University of Saskatchewan, 120 Veterinary Road, Saskatoon, Saskatchewan S7N 5E3, Canada <br/>
-Phone: 306-966-2551. E-mail: res498@usask.ca <br/> 
-Website: https://reemasingh.github.io/drreemasingh/ <br/>
 
 
