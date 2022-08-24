@@ -1,5 +1,6 @@
-theme: minima
-minimal_mistakes_skin: air
+theme: jekyll-theme-minimal
+logo: /assets/img/logo.png
+
 # Site settings
 title: Dr. Reema Singh
 email: res498@usask.ca
