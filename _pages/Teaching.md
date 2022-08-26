@@ -19,7 +19,7 @@ I have designed and virtually delivered an Introductory Bioinformatics course to
 
 ## Guest Faculty (Teaching; 2006(1 month)) at Guru Jambheshwar University of Science and Technology, Hisar, India
 
- **Course**: Introductory Bioinformatics (MBT-525)
+ **Course**: Introductory Bioinformatics (MBT-525)<br/>
  **Class**:  M.Sc. Biotechnology (16 Lectures)
 
 ## Invited Talks at Workshop 
