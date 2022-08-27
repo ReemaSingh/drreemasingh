@@ -23,7 +23,7 @@ I have designed and virtually delivered an Introductory Bioinformatics course to
  **Class**:  M.Sc. Biotechnology <br/>
  **Number of lectures**: 16 <br/>
 
-## Invited Talks at Workshop 
+## Invited Talks at Workshops 
 
 **Conducted by Department of Biophysics (2009-2012), AIIMS, New Delhi, INDIA**<br/>
 *Also conducted hands-on practical sessions (as Instructor) in all workshops.
