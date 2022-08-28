@@ -14,10 +14,3 @@
 6. **Meta-analysis of *M. tuberculosis* pathogen and host infected microarray data**. International conference on open source for Computer-Aided Translational Medicine, 2012, INDIA.
 7. **Meta-analysis of microarray expression data to identify differential expression of gene modulation pathways after HIV infection**. International  conference on emerging frontiers and challenges in HIV/AIDS research, National Institute for Research in Reproductive Health, Mumbai, 2011, INDIA.
 
-### Seminars (Divisional Talks)
-
-8. **Sexually transmitted infections in the era of genomics**. Vaccine and Infectious Disease Organization-International Vaccine Centre, University of Saskatchewan, 2020, CANADA	
-9. **Improved annotation from *de novo* transcriptome assembly in social amoeba species**. Division of Cell and Developmental Biology, University of Dundee, Scotland, 2016, UK
-10. **Identification of genes regulated by cyclic-di-GMP in *Dictyostelium discoideum***. Division of Cell and Developmental Biology, University of Dundee, 2015, Scotland, UK
-11. **Novel gene discovery using next-generation transcriptome assembly in social amoeba**. Division of Computational Biology, University of Dundee, 2014, Scotland, UK
-
