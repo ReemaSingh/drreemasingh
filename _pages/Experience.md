@@ -6,7 +6,7 @@ Vaccine and Infectious Disease Organization (VIDO), University of Saskatchewan, 
 **Postdoctoral Fellow (2017-2022)** <br/>
 Department of Biochemistry, Microbiology and Immunology, College of Medicine<br/>
 Department of Computer Science, College of Arts and Science (2017-2019)<br/>
-Vaccine and Infectious Disease Organization (VIDO), University of Saskatchewan, CANADA<br/> 
+University of Saskatchewan, CANADA<br/> 
 
 **Postdoctoral Research Assistant(2013-2016)** <br/>
 Division of Cell and Developmental Biology, School of Life Sciences <br/>
