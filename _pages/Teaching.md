@@ -33,3 +33,8 @@ I have designed and virtually delivered an Introductory Bioinformatics course to
 3. Sequence alignment tools(2010)								
 4. Introduction to databases and demo on sequence alignment(2010)	
 5. Basic of perl scripting	(2009)				
+
+## Students Supervison
+
+Supervised and managed 7 graduate and undergraduate students in their dissertation projects. 
+
