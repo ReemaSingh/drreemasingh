@@ -1,5 +1,11 @@
 # Publications [[Back](../index.md)]
 
+Kin K, Chen ZH, Forbes G, Lawal H, Schilde C, **Singh R**, Cole C, Barton GJ, Schaap P.[The protein kinases of Dictyostelia and their incorporation into a signalome](https://www.sciencedirect.com/science/article/pii/S0898656823001286?via%3Dihub)Cell Signal. 2023 May 13;:110714.
+
+Sanderson H, Nnajide CR, McCarthy MC, **Singh R**, Rubin JE, Dillon JR, White AP.[Hybrid Genome Assemblies of 245 Avian and Broiler Barn Environment-Associated Escherichia coli Strains Isolated from Saskatchewan Broiler Farms.](https://journals.asm.org/doi/10.1128/mra.00110-23) Microbiol Resour Announc. 2023 May 17;12(5):e0011023.
+
+Crits-Christoph, Alex;  Gangavarapu, Karthik; Pekar, Jonathan E.; Moshiri, Niema;  **Singh, Reema**;  Levy , Joshua I.; Goldstein, Stephen A.; Suchard, Marc A.; Popescu, Saskia; Robertson, David L.;  Lemey, Philippe;  Wertheim, Joel O.; Garry, Robert F.; Rasmussen, Angela L.;  Andersen, Kristian G.; Holmes, Edward C.; Rambaut, Andrew;  Worobey, Michael; Débarre, Florence. [Genetic evidence of susceptible wildlife in SARS-CoV-2 positive samples at the Huanan Wholesale Seafood Market, Wuhan: Analysis and interpretation of data released by the Chinese Center for Disease Control.](https://doi.org/10.5281/zenodo.7754299.)Zenodo, March 2023. 
+
 **Reema Singh**, Anthony Kusalik, Jo-Anne R Dillon. [Tools for the bioinformatics analyses of whole-genome sequencing data in Neisseria gonorrhoeae: A literature review.](https://academic.oup.com/bfg/article-abstract/21/2/78/6309350) Brief Funct Genomics 2022; 21(2):78-89.<br/>
 
 Nidhi Parmar, **Reema Singh**, Irene Martin, Sumudu R Perera, Walter Demczuk, Anthony Kusalik, Jessica Minion, Jo-Anne R Dillon. [Genomic analysis reveals antibiotic susceptibility clones and emerging resistance in Neisseria gonorrhoeae (Saskatchewan, Canada).](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7449210/) Antimicrob Agents Chemother 2020;64(9). <br/>
