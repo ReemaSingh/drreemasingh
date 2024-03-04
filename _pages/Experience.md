@@ -1,6 +1,6 @@
 # Affiliate  [[Back](../index.md)]
 
-**Bioinformatician and Data Manager/Staff Scientist (2022-Present)** <br/>
+**Bioinformatician and Data Manager (2022-Present)** <br/>
 Vaccine and Infectious Disease Organization (VIDO), University of Saskatchewan, CANADA<br/>
 
 **Visiting Associate (2022-2023)** <br/>
