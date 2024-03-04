@@ -3,6 +3,9 @@
 **Bioinformatician and Data Manager/Staff Scientist (2022-Present)** <br/>
 Vaccine and Infectious Disease Organization (VIDO), University of Saskatchewan, CANADA<br/>
 
+**Visiting Associate (2022-2023)** <br/>
+Department of Mathematics, Colorado State University, USA<br/>
+
 **Postdoctoral Fellow (2017-2022)** <br/>
 Department of Biochemistry, Microbiology and Immunology, College of Medicine<br/>
 Department of Computer Science, College of Arts and Science (2017-2019)<br/>
