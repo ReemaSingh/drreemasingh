@@ -1,5 +1,7 @@
 # Poster Presentations at Conference/Meetings/Symposiums[[Back](../index.md)]
 
+**Singh R**, Hurtado-Monzon AM, Saundh S and Rasmussen AL. In-silico structure analysis of ACE2 binding with SARS-CoV-2 in North American animal species. CoVaRR-Net’s Spring 2023 Meeting, May16-18,2023, Ottawa, Ontario, CANADA.
+
 **Singh R**, Wobeser W, Cooper R, Guthrie J, Halajian E, Hoeppner V, Li J, Long R, Black C, Sharma M, Tyrrell G, Dillon JAR. Inferring Mycobacterium tuberculosis lineages and antimicrobial resistance from whole-genome sequencing data. Scheduled virtual poster presentation (3 minute recording) at the 26th Aannual TB conference: The Union – NAR (End TB), March 2-5, 2022 virtual conference, Vancouver, BC, CANADA.
 
 **Singh R**, Yarmovich T, Kusalik A and Dillon JA. Gen2EpiGUI: A user-friendly pipeline for analyzing whole-genome sequencing data for epidemiological studies of Neisseria gonorrhoeae. Saskatchewan Epidemiological Association 2019 Annual Symposium, October 8th, 2019, Regina, Saskatchewan, CANADA. 
