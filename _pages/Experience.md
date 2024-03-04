@@ -24,7 +24,7 @@ Guru Jambheshwar University of Science and Technology, Hisar, India<br/>
 # Editorial Activity 
 
 **Academic Editor (2022-Present)** <br/>
-PeerJ: https://peerj.com/ReemaSingh/ 
+PeerJ: https://peerj.com/ReemaSingh/
 
 **Associate Editor (2023-Present)** <br/>
 International Journal of Antimicrobial Agents 
