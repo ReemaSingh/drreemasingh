@@ -24,7 +24,7 @@
    **Accessions**: MH140434 and MH140435<br/>
    **Year**: 2018<br/>
 
-3. **Description**:Nucleotide and protein sequences for three Neisseria gonorrhoeae cloning vectors deposited at NCBI.<br/>
+3. **Description**:Nucleotide and protein sequences for three *Neisseria gonorrhoeae* cloning vectors deposited at NCBI.<br/>
 **Accessions**: OM801976, OM801977 and OM801978<br/>
 **Year**: 2022<br/>
 
