@@ -22,6 +22,10 @@
 
 # Poster Presented By Other Authors
 
+Hurtado-Monzon AM, **Singh R**, Saundh S, Banerjee A and Rasmussen AL. Assessment of animal species susceptible to SARS-CoV-2. The 30th Annual Life and Health Sciences Research Expo University of Saskatchewan, May 4th 2023.
+
+Hurtado-Monzon AM, Saundh SL, **Singh R**, Mhamdi Z, Banerjee A and Rasmussen AL. Assessment of SARS-CoV-2 susceptible North American animal species. The 42nd Annual Meeting of the American Society for Virology, June 24-28, 2023, University of Georgia, USA.
+
 Parmar N,  Lloyd K, Mitzel KM, **Singh R**, Hennink M, and Dillon JA. Characterizing Chlamydia Trachomatis from Urine Specimens by Genomic Analysis. 23rd Word IUSTI Congress, Zimbabwe Sept 4-7 2022.	
 
 Zadeh VR, Kroeker AL, McCarthy M, **Singh R**, Ralph R, Tralnberg J, Lew J, Dillon JA, White A, Côté M and  Falzarano D. Adaptation of SARS-CoV-2 in ferrets alters tissue tropism leading to virus replication in the lungs. 4th Symposium of the Canadian Society for Virology, June 5-7, 2022, University of Alberta Campus, Edmonton, Alberta.
