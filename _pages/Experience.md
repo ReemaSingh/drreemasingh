@@ -21,6 +21,12 @@ Biomedical Informatics Centre, Indian Council of Medical Research, INDIA<br/>
 **Guest Faculty (2006)(1 month)** <br/>
 Guru Jambheshwar University of Science and Technology, Hisar, India<br/>
 
+# Editorial Activity 
+
+** Academic Editor (2022-Present)**
+PeerJ 
+
+
 # Education
 
 **Ph.D. Computational Biology and Bioinformatics** <br/>
