@@ -1,5 +1,5 @@
 # Welcome to Academic webpage of Dr. Reema Singh
-**[Work Experience](_pages/Experience.md)**&emsp;**[Publications](_pages/Publications.md)**&emsp;**[Softwares](_pages/software.md)**&emsp;**[Talks](_pages/Talks.md)**&emsp;**[Posters](_pages/Posters.md)**&emsp;**[Teaching](_pages/Teaching.md)**&emsp;**[Awards](_pages/Awards.md)**&emsp;**[Contact](_pages/Contact.md)**
+**[Work Experience](_pages/Experience.md)**&emsp;**[Publications](_pages/Publications.md)**&emsp;**[Softwares](_pages/software.md)**&emsp;**[Talks](_pages/Talks.md)**&emsp;**[Posters](_pages/Posters.md)**&emsp;**[Teaching](_pages/Teaching.md)**&emsp;**[Awards](_pages/Awards.md)**&emsp;**[Media & Science Communication](_pages/Media.md)**&emsp;**[Contact](_pages/Contact.md)**
 
 ### About Me
 I am a computational Biologist/Bioinformatician with more than 19 years of research experience. 
