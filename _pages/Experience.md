@@ -29,6 +29,14 @@ PeerJ: https://peerj.com/ReemaSingh/
 **Associate Editor (2023-Present)** <br/>
 International Journal of Antimicrobial Agents 
 
+**Special Issue Editor (2024-ongoing)** <br/>
+International Journal of Antimicrobial Agents (Elsevier)<br/>
+Special Issue Title: [One Health](https://www.sciencedirect.com/special-issue/10KGMNBMCRN)
+ 
+**Editorial Board Member – Antimicrobial Resistance (2025-Present)** <br/>
+Microbiology Spectrum (American Society for Microbiology) <br/>
+Editorial Board Listing: https://journals.asm.org/journal/spectrum/board-editors
+
 # Education
 
 **Ph.D. Computational Biology and Bioinformatics** <br/>
