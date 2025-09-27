@@ -1,5 +1,9 @@
 # Publications [[Back](../index.md)]
 
+Crits-Christoph A, Levy JI, Pekar JE, Goldstein SA, **Singh R**, Hensel Z, Gangavarapu K, Rogers MB, Moshiri N, Garry RF, Holmes EC. [Genetic tracing of market wildlife and viruses at the epicenter of the COVID-19 pandemic.](https://www.cell.com/cell/fulltext/S0092-8674(24)00901-2?_hsmi=324423428). Cell. 2024 Sep 19;187(19):5468-82.
+
+**Singh R**, Dillon JA, Jamieson F, Khan I, Long R, McDonald R, Minion J, Rea E, Richard-Greenblatt M, Kaushal Sharma M, Shokoples S. [Utilizing whole genome sequencing to delineate relapse and reinfection tuberculosis on the Canadian prairies](https://www.tandfonline.com/doi/full/10.1080/24745332.2024.2366310). Canadian Journal of Respiratory, Critical Care, and Sleep Medicine. 2024 Jul 3;8(4):168-78.
+
 Kin K, Chen ZH, Forbes G, Lawal H, Schilde C, **Singh R**, Cole C, Barton GJ, Schaap P.[The protein kinases of Dictyostelia and their incorporation into a signalome](https://www.sciencedirect.com/science/article/pii/S0898656823001286?via%3Dihub)Cell Signal. 2023 May 13;:110714.
 
 Sanderson H, Nnajide CR, McCarthy MC, **Singh R**, Rubin JE, Dillon JR, White AP.[Hybrid Genome Assemblies of 245 Avian and Broiler Barn Environment-Associated Escherichia coli Strains Isolated from Saskatchewan Broiler Farms.](https://journals.asm.org/doi/10.1128/mra.00110-23) Microbiol Resour Announc. 2023 May 17;12(5):e0011023.
