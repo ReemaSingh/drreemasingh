@@ -28,5 +28,15 @@
 **Accessions**: OM801976, OM801977 and OM801978<br/>
 **Year**: 2022<br/>
 
+4. **Description**: Macaca fascicularis Raw sequence reads.<br/>
+   **Bioproject**: PRJNA1040269 <br/>
+   **Year**: 2023 <br/>
+   
+5. **Description**: Male and female hDPP4 mice infected with MERS-CoV.<br/>
+   **Bioproject** Accession:PRJNA1276520 <br/>
+   **Year**: 2025<br/>
+
+
+
 
 
